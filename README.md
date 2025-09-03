@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirza Hadi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaa5&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaa5" /> </p>
 
@@ -13,6 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/mirzahadi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

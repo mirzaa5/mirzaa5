@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, .NET, React, Systems Design**
 
-- 👨‍💻 All of my projects are available at [https://extraordinary-cannoli-98ff62.netlify.app/](https://extraordinary-cannoli-98ff62.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://extraordinary-cannoli-98ff62.netlify.app/)
 
 - 📫 How to reach me **mirzahadi55@gmail.com**
 
